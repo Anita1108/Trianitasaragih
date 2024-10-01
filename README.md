@@ -14,7 +14,7 @@
     </style>
 </head>
 <body>
-    <h1>Selamat Datang Di Perpustakaan Tri anita saragih (222201027)!</h1>
+    <h1>Selamat Datang Di Perpustakaan Tri anita saragih (222201027)</h1>
     <p>Perkenalkan nama Tri anita saragih ,Nim :222201027Program Studi D3 Perpustakaan Mata kuliah Pemrograman Web. Ini merupakan perpustakaan homepage pertama saya</p>
 
     <hr/>
@@ -242,13 +242,12 @@
         </table>
         <br>
         <input type="submit" value="Submit">
-        
     </form>
-    
+    <body>
         <h1> Pengertian HTML dan CSS </h1>
         <p>HTML adalah bahasa markup standar yang digunakan untuk membuat struktur dan konten halaman web. Dalam HTML, pengembang web mendefinisikan elemen-elemen seperti teks, gambar, tautan, formulir, dan elemen lainnya yang membentuk tampilan halaman web. HTML menggunakan tag-tag untuk menandai elemen-elemen ini sehingga peramban web tahu cara menampilkan mereka.</p>
     
         <p>CSS adalah bahasa stylesheet yang digunakan untuk mengontrol tata letak dan tampilan halaman web. Dengan CSS, Anda dapat mengatur warna, ukuran, spasi, jenis font, dan banyak properti tata letak lainnya untuk elemen-elemen HTML. Penggunaan CSS memungkinkan pemisahan antara struktur dan tata letak, sehingga HTML dapat fokus pada struktur konten, sementara CSS mengontrol cara konten tersebut ditampilkan.</p> 
-        
+ </body>       
 </html>
 
