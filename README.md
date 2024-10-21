@@ -2,6 +2,81 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Perpustakaan UNAIR</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-image: url("picture/Winners 2013.jpeg");
+            background-size: cover;
+            color: black;
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            color: blue;
+            text-align: center;
+            text-decoration: underline;
+        }
+        h2, h3, h4, h5, h6 {
+            color: darkblue;
+        }
+        p {
+            color: red;
+        }
+        section {
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+        .section1 {
+            background-color: yellow;
+        }
+        .section2 {
+            background-color: lightgreen;
+        }
+        .section3 {
+            background-color: lightcoral;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: lightgray;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">Perpustakaan UNAIR</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li><a href="#home">Beranda</a></li>
+                <li><a href="#pemesanan">Pemesanan Buku</a></li>
+                <li><a href="#perpanjangan">Perpanjangan Buku</a></li>
+                <li><a href="#tabel">Tabel Bahan Buku</a></li>
+                <li><a href="#anggota">Anggota Perpustakaan</a></li>
+            </ul>
+        </div>
+    </nav>
+
+
+
+
     <title>Contoh Halaman HTML</title>
     <style>
         body {
