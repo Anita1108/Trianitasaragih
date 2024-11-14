@@ -87,7 +87,6 @@
             color: #4CAF50;
         }
     </style>
-</head>
 <body>
     <h1>Selamat Datang Di Perpustakaan Tri anita saragih (222201027)</h1>
     <p>Perkenalkan nama Tri anita saragih ,Nim :222201027Program Studi D3 Perpustakaan Mata kuliah Pemrograman Web. Ini merupakan perpustakaan homepage pertama saya</p>
